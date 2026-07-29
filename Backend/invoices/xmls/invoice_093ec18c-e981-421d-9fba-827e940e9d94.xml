@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Invoice><InvoiceNumber>test012</InvoiceNumber><UUID>093ec18c-e981-421d-9fba-827e940e9d94</UUID><IssueDate>2025-08-22</IssueDate><DueDate>2025-08-24</DueDate><CompanyTRN>123456789</CompanyTRN><ClientTRN /><LineItems><Item><Description /><Quantity>1.00</Quantity><UnitPrice>0.00</UnitPrice><VATRate>0.00</VATRate><LineTotal>0.000000</LineTotal></Item></LineItems><TotalAmount>0.000000</TotalAmount><TotalVATAmount>0.000000</TotalVATAmount></Invoice>
